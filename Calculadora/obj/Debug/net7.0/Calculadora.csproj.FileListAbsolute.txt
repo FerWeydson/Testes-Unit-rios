@@ -1,0 +1,15 @@
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\bin\Debug\net7.0\Calculadora.exe
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\bin\Debug\net7.0\Calculadora.dll
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\obj\Debug\net7.0\Calculadora.dll
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+D:\Projetos\net-csharp\Teste-Unitario\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
